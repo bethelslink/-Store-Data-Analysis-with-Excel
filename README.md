@@ -1,4 +1,4 @@
-# Vrinda Store Annual Sales Report 2022
+# Vrinda Store Annual Sales Report 2022 (with Excel)
 
 ## 📌 Table of Contents
 1. [Project Overview](#project-overview)
