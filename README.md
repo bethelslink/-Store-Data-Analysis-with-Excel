@@ -75,7 +75,9 @@ Added Interactive Slicers for filtering by Month, Channels, and Category.
 
 ## Interactive Dashboard
 
-![Vrinda Store Dashboard](Vrinda%20Store%20Data%20Analysis%20dash.png)
+![Vrinda Store Dashboard](store_dash.png)
+
+
 
 ###  File Links:
 - **Excel Analysis File**: [Download Vrinda Store Data Analysis Dashboard.xlsx](Vrinda%20Store%20Data%20Analysis%20dashboard.xlsx)
