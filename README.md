@@ -18,7 +18,7 @@
 ## Project Overview
 This project aims to analyze the annual sales performance of Vrinda Store (2022) and provide key insights into customer behavior, sales trends, and growth opportunities for 2023.
 
-We used Excel to clean and process the data, created an interactive dashboard, and analyzed multiple aspects of the business, such as sales channels, demographics, and order status.
+I used Excel to clean and process the data, created an interactive dashboard, and analyzed multiple aspects of the business, such as sales channels, demographics, and order status.
 
 ---
 
