@@ -41,13 +41,14 @@ I used Excel to clean and process the data, created an interactive dashboard, an
 ---
 
 ## Questions Answered in the Analysis:
- **Comparison of Sales vs Orders**  
- **Identification of the Month with Highest Sales**  
- **Analysis of Customer Demographics (Men vs Women)**  
-**Breakdown of Order Statuses (Delivered, Refunded, etc.)**  
-**Top 5 States contributing to sales**  **Relationship between Age, Gender, and Sales**  
-**Identification of Best Performing Sales Channel**  
-**Most Profitable Product Categories**  
+
+ - Comparison of Sales vs Orders  
+  - Identification of the Month with Highest Sales 
+ - Analysis of Customer Demographics (Men vs Women) 
+- Breakdown of Order Statuses (Delivered, Refunded, etc.) 
+- Top 5 States contributing to sales**  **Relationship between Age, Gender, and Sales
+- Identification of Best Performing Sales Channel**  
+- Most Profitable Product Categories**  
 
 ---
 
@@ -160,7 +161,7 @@ Recommendation:
 - Strengthen partnerships with Amazon & Flipkart for more visibility.
  
 -  Optimize pricing & promotions on Flipkart to increase conversions.
--  
+  
 ## Final Recommendations
 - Expand Marketing for Women & Teenagers – Since women drive 64% of sales, focus on fashion, accessories, and personal care categories.
 
